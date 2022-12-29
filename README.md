@@ -1,29 +1,31 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH8ShJLCtP3dv9T2968MC29VgGbA_gRaYHEIK73Q&s" alt="Profile Picture" width="100">
+  <img src="https://example.com/profile-picture.png" alt="Profile Picture" width="100">
   <h1 align="center">Your Name</h1>
-  <p align="center">Software Developer</p>
+  <p align="center">Web Designer</p>
 </p>
 
 ## About Me
 
-Hi there! I am a software developer with a passion for creating high-quality, user-friendly applications. I have experience in a variety of programming languages and am always eager to learn new technologies.
+Hi there! I am a web designer with a passion for creating visually stunning and user-friendly websites. I have experience in a variety of design tools and am always looking for new challenges and opportunities to improve my skills.
 
 ## Skills
 
-- Python
-- Java
+- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 - HTML/CSS
 - JavaScript
+- Responsive web design
 
-## Projects
+## Portfolio
 
-- **Project 1**: [Project 1 Name](https://example.com/project-1) - A brief description of the project.
+- **Project 1**: [Project 1 Name](https://example.com/project-1) - A brief description of the project. Click the image to see a live demo:
+  <a href="https://example.com/project-1"><img src="https://example.com/project-1-screenshot.png" alt="Project 1 Screenshot" width="300"></a>
 
-- **Project 2**: [Project 2 Name](https://example.com/project-2) - A brief description of the project.
+- **Project 2**: [Project 2 Name](https://example.com/project-2) - A brief description of the project. Click the image to see a live demo:
+  <a href="https://example.com/project-2"><img src="https://example.com/project-2-screenshot.png" alt="Project 2 Screenshot" width="300"></a>
 
 ## Education
 
-- BSc in Computer Science from XYZ University
+- BSc in Graphic Design from XYZ University
 
 ## Contact Me
 
