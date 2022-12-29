@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/profile-picture.png" alt="Profile Picture" width="100">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH8ShJLCtP3dv9T2968MC29VgGbA_gRaYHEIK73Q&s" alt="Profile Picture" width="100">
   <h1 align="center">Your Name</h1>
   <p align="center">Software Developer</p>
 </p>
