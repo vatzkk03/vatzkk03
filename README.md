@@ -1,6 +1,6 @@
 # Your Name
 
-![Profile Picture](https://example.com/profile-picture.png)
+![Profile Picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F002%2F403%2Foriginal%2Fman-with-beard-avatar-character-isolated-icon-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fprofile-avatar&tbnid=MV9dWdy0ZY_UPM&vet=12ahUKEwiHxOv7tZ_8AhW8unIEHZJhC3kQMygAegUIARDkAQ..i&docid=j1o201ERqM1BVM&w=7973&h=7974&q=avatar%20profile%20picture&ved=2ahUKEwiHxOv7tZ_8AhW8unIEHZJhC3kQMygAegUIARDkAQ)
 
 Hi there! I am a software developer with a passion for creating high-quality, user-friendly applications.
 
@@ -23,9 +23,4 @@ Hi there! I am a software developer with a passion for creating high-quality, us
 - Email: yourname@example.com
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-This code will create a simple readme page with a heading, a profile picture, a list of skills, a section for projects, a section for education, and a section for contact information. You can customize the content and layout to suit your needs and preferences. For example, you could add more sections, such as a section for work experience or a section for personal interests. You can also add images and graphics to make the readme more visually appealing.
 
-
-
-
-Regenerate response
