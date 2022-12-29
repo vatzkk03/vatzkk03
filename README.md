@@ -1,6 +1,6 @@
 # Your Name
 
-![Profile Picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F002%2F403%2Foriginal%2Fman-with-beard-avatar-character-isolated-icon-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fprofile-avatar&tbnid=MV9dWdy0ZY_UPM&vet=12ahUKEwiHxOv7tZ_8AhW8unIEHZJhC3kQMygAegUIARDkAQ..i&docid=j1o201ERqM1BVM&w=7973&h=7974&q=avatar%20profile%20picture&ved=2ahUKEwiHxOv7tZ_8AhW8unIEHZJhC3kQMygAegUIARDkAQ)
+![Profile Picture](https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg)
 
 Hi there! I am a software developer with a passion for creating high-quality, user-friendly applications.
 
